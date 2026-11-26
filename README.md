@@ -12,7 +12,7 @@ One weird job title: Senior Vice President of Napkin Inspection — a senior rol
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (45 characters, one line, deterministic).
+Writes the line to `/output/entry.txt` (42 characters, one line, deterministic).
 
 ---
 
